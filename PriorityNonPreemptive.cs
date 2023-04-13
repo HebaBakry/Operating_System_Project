@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Scheduler_Assignment
 {
-    internal class Priority_NonPreemptive
+    internal class PriorityNonPreemptive
     {
         /*Function to schedule processes according to priority non-preempitve scheduling
             Input:a list of all processes
