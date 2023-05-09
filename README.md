@@ -5,9 +5,13 @@ Process Scheduler Web APP using C# intended for the OS Course
 6 Scheduling Algorithms can be used:
 
 1)FCFS 
+
 2)SJF (Non-Preemptive)
+
 3)SJF (Preemptive)
+
 4)Priority (Non-Preemptive)
+
 5)Priority (Preemptive)
 
 Features Implemented:
