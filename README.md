@@ -2,7 +2,7 @@
 
 Process Scheduler Web APP using C# intended for the OS Course 
 
-    6 Scheduling Algorithms can be used:
+6 Scheduling Algorithms can be used:
 
     1)FCFS 
 
